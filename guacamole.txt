@@ -1,0 +1,12 @@
+guacamole recipe
+
+ingredients
+-avocado
+-tomatoes
+-cilantro
+-onion
+-lime
+-salt
+-garlic
+
+chop onions and garlic, peel avocado, mash avocados and tomatoes,
