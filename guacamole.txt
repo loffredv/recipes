@@ -8,3 +8,5 @@ ingredients
 -lime
 -salt
 -garlic
+
+chop onions and garlic, peel avocado, mash avocados and tomatoes,
